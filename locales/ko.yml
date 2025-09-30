@@ -4,4 +4,15 @@
 # To work with us on translations, join this project:
 # https://translate.discourse.org/
 
-ko:
+en:
+  modal:
+    title: 동영상 업로드
+    video_title: 추가 동영상
+    poster: 썸네일 이미지 (optional)
+    vtt_title: 서브 타이틀 (optional)
+    vtt_help: "\",\" 으로 구분, format: url,label,langcode"
+    insert: 업로드
+    cancel: 취소
+  source_not_video: "Error: One of the video source URLs is invalid."
+  composer_title: 도영상 업로드
+  simple_list_placeholder: Add item...
